@@ -1,9 +1,10 @@
 {
-  "name": "react-scroll",
+  "name": "@tmtsoft/react-scroll",
   "version": "1.0.0",
   "description": "React scroll component built with ease in mind",
   "author": "kamil-alekber",
   "license": "MIT",
+  "private": false,
   "repository": "https://github.com/kamil-alekber/scroll-component",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
