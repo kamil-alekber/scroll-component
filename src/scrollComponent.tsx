@@ -139,7 +139,7 @@ export function ScrollComponent({
 
   return (
     <div
-      className={`${styles['scrollhost-container']} ${scrollContainerClass}`}
+      className={`${styles['scrollhost-container']} ${scrollContainerClass} scroll-component`}
       onMouseOver={handleMouseOver}
       onMouseOut={handleMouseOut}
       style={scrollContainerStyles}
